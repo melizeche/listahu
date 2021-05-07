@@ -1,4 +1,4 @@
-Django==2.2.20
+Django==2.2.22
 django-adminactions==1.6.0
 django-autoslug==1.9.4
 django-cors-headers==3.0.2
